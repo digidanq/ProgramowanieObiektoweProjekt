@@ -1,0 +1,14 @@
+D:\1\Sem_3\Programowanie_obiektowe\Project\CsharpCode\VehicleDatabase\bin\Debug\net8.0\VehicleDatabase.exe
+D:\1\Sem_3\Programowanie_obiektowe\Project\CsharpCode\VehicleDatabase\bin\Debug\net8.0\VehicleDatabase.deps.json
+D:\1\Sem_3\Programowanie_obiektowe\Project\CsharpCode\VehicleDatabase\bin\Debug\net8.0\VehicleDatabase.runtimeconfig.json
+D:\1\Sem_3\Programowanie_obiektowe\Project\CsharpCode\VehicleDatabase\bin\Debug\net8.0\VehicleDatabase.dll
+D:\1\Sem_3\Programowanie_obiektowe\Project\CsharpCode\VehicleDatabase\bin\Debug\net8.0\VehicleDatabase.pdb
+D:\1\Sem_3\Programowanie_obiektowe\Project\CsharpCode\VehicleDatabase\obj\Debug\net8.0\VehicleDatabase.GeneratedMSBuildEditorConfig.editorconfig
+D:\1\Sem_3\Programowanie_obiektowe\Project\CsharpCode\VehicleDatabase\obj\Debug\net8.0\VehicleDatabase.AssemblyInfoInputs.cache
+D:\1\Sem_3\Programowanie_obiektowe\Project\CsharpCode\VehicleDatabase\obj\Debug\net8.0\VehicleDatabase.AssemblyInfo.cs
+D:\1\Sem_3\Programowanie_obiektowe\Project\CsharpCode\VehicleDatabase\obj\Debug\net8.0\VehicleDatabase.csproj.CoreCompileInputs.cache
+D:\1\Sem_3\Programowanie_obiektowe\Project\CsharpCode\VehicleDatabase\obj\Debug\net8.0\VehicleDatabase.dll
+D:\1\Sem_3\Programowanie_obiektowe\Project\CsharpCode\VehicleDatabase\obj\Debug\net8.0\refint\VehicleDatabase.dll
+D:\1\Sem_3\Programowanie_obiektowe\Project\CsharpCode\VehicleDatabase\obj\Debug\net8.0\VehicleDatabase.pdb
+D:\1\Sem_3\Programowanie_obiektowe\Project\CsharpCode\VehicleDatabase\obj\Debug\net8.0\VehicleDatabase.genruntimeconfig.cache
+D:\1\Sem_3\Programowanie_obiektowe\Project\CsharpCode\VehicleDatabase\obj\Debug\net8.0\ref\VehicleDatabase.dll
