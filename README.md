@@ -1,74 +1,88 @@
-# Object-Oriented Programming Project
+# Object-Oriented Programming Project / Projekt Programowania Obiektowego / Проєкт ООП
 
 ---
 
 ## EN
 
-###  Description
-This project demonstrates object-oriented programming concepts using a practical application.
+### Description
+This project was developed as part of an Object-Oriented Programming course. It demonstrates the use of OOP principles in a practical application.
 
-###  Features
-- Class-based architecture  
+### Features
+- Object-oriented design  
+- Classes and objects  
 - Inheritance and polymorphism  
-- Data abstraction  
-- Modular structure  
+- Encapsulation  
+- Modular code structure  
 
-###  Technologies
+### Technologies
 - C#
 - .NET
 
-###  How to run
+### How to run
 1. Clone the repository  
-2. Open in IDE  
-3. Build and run  
+2. Open the project in your IDE  
+3. Compile and run the program  
 
-###  Author
+### Notes
+The project focuses on understanding core OOP concepts rather than production-level implementation.
+
+### Author
 digidanq 
 
 ---
 
 ## PL
 
-###  Opis
-Projekt demonstruje podstawowe koncepcje programowania obiektowego.
+### Opis
+Projekt wykonany w ramach kursu Programowania Obiektowego.
 
-###  Funkcjonalności
-- Struktura oparta na klasach  
+### Funkcjonalności
+- Programowanie obiektowe  
+- Klasy i obiekty  
 - Dziedziczenie i polimorfizm  
+- Enkapsulacja  
 - Modularność kodu  
 
-###  Technologie
+### Technologie
 - C#
 - .NET
 
-###  Uruchomienie
+### Uruchomienie
 1. Sklonuj repozytorium  
 2. Otwórz w IDE  
 3. Uruchom program  
 
-###  Autor
+### Uwagi
+Projekt edukacyjny skupiający się na podstawach OOP.
+
+### Autor
 digidanq  
 
 ---
 
 ## UA
 
-###  Опис
-Проєкт демонструє принципи об'єктно-орієнтованого програмування.
+### Опис
+Проєкт створений у рамках курсу об'єктно-орієнтованого програмування.
 
-###  Можливості
+### Можливості
+- ООП підхід  
 - Класи та об’єкти  
 - Наслідування  
 - Поліморфізм  
+- Інкапсуляція  
 
-###  Технології
+### Технології
 - C#
 - .NET
 
-###  Запуск
+### Запуск
 1. Клонувати репозиторій  
 2. Відкрити в IDE  
-3. Запустити програму  
+3. Запустити  
 
-###  Автор
+### Примітки
+Навчальний проєкт для практики ООП.
+
+### Автор
 digidanq 
